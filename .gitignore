@@ -1,0 +1,8 @@
+# Secrets / local state - never commit
+config.ini
+*.ini
+!config.example.ini
+miele_tokens.json
+*.tmp
+*.log
+__pycache__/
